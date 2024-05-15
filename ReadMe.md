@@ -1,6 +1,5 @@
 # 💫 About Me:
-Futuro dev front-end e UI, pretendo nessa simples pagina<br>mostrar meus projetos realizados em meu curso e trabalhos<br>que realizo para manter meus conhecimentos em prática.<br><br>English Version:<br>Future dev front-end and UI, I pretend in this simple page,<br>show my projects produced in my Computer Technician <br>course and little projects that i make to I do to keep my <br>knowledge in active.
-
+Um jovem programador empenhado em produzir ideias as quais eu tenho no meu dia
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/LincolnBorsoiMoreira) 
