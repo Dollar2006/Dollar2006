@@ -7,7 +7,7 @@
   Logo abaixo estarão algumas informações uteis sobre mim
 </p>
   <p align="left">
-   👽 Linguagens: <ul>
+   👽 Linguagens que estou aprendendo: <ul>
       <li>  
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50px"/>
       </li>
