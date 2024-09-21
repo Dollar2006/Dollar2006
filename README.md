@@ -1,5 +1,3 @@
-<img src="https://cdn.picrew.me/shareImg/org/202409/41153_8ZGP5jmp.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
-
 
 <p align="left"> 
   Olá, não vi você ai...<br>
